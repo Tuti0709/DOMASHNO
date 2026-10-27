@@ -1,0 +1,15 @@
+#include <iostream>
+#include <stdlib.h>
+
+int main()
+{
+	printf("vuvedi chislo za a i b\n");
+	double a;
+	double b;
+	scanf_s("%lf", &a);
+	scanf_s("%lf", &b);
+	double P = 2 * a + 2 * b;
+	double S = a * b;
+	printf_s("P = %.2lf\n", P);
+	printf_s("S = %.2lf\n", S);
+}
