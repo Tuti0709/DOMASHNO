@@ -1,0 +1,12 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ConsoleApplication1/ConsoleApplication1.vcxproj" Id="9f3a4b63-1137-42eb-b761-a1aef3ed36a6" />
+  <Project Path="ConsoleApplication2/ConsoleApplication2.vcxproj" Id="2c808294-cbff-4748-a7ef-634949df6d8d" />
+  <Project Path="Izrazi/Izrazi.vcxproj" Id="33d69b7d-c12e-4248-aad2-de1234100dc0" />
+  <Project Path="Kulbo i trapec/Kulbo i trapec.vcxproj" Id="2168c1ce-835a-4d7c-8668-217d6e6e787a" />
+  <Project Path="lev - euro/lev - euro.vcxproj" Id="0a68f1ff-02cd-4f55-971c-af999ce72749" />
+  <Project Path="mat zadachi/mat zadachi.vcxproj" Id="c11e6f97-6108-4e22-9037-597eda020782" />
+</Solution>
